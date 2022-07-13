@@ -188,6 +188,7 @@ img {
 
     .col-2 {
         width: 40%;
+        text-align: start;
     }
 
     .col-2 .gb-left {
