@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- [solution](https://your-solution-url.com)
-- [live site](https://aymennassi.github.io/Fylo-data-storage-component/git )
+- [solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component-ffFq-OZzbq)
+- [live site](https://aymennassi.github.io/Fylo-data-storage-component/git)
 
 ### Built with
 
